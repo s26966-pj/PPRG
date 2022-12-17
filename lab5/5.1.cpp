@@ -18,7 +18,6 @@ int main()
             maxIndex = i;
         }
     }
-
     cout << "Najwieksza wartoscia elementu tablicy jest " << max << " o indeksie " << maxIndex << ".";
 
     return 0;
